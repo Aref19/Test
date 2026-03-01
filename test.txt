@@ -1,4 +1,5 @@
 Hallo
+<<<<<<< HEAD
 
 Aref
 B
@@ -8,3 +9,6 @@ E
 F
 G
 
+=======
+Aref OOBaSSFFGG
+>>>>>>> parent of 6dac2f9 (add characters)
