@@ -1,5 +1,2 @@
 Hallo
-<<<<<<< HEAD
 Aref OOBaSSFFGG
-=======
->>>>>>> parent of a69b1f7 (add Aref OO)
