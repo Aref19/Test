@@ -5,9 +5,12 @@ Aref
 B
 C
 D
+<<<<<<< HEAD
 E
 F
 G
+=======
+>>>>>>> parent of a0a226d (add characters E F)
 
 =======
 Aref OOBaSSFFGG
